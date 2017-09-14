@@ -1,0 +1,13 @@
+Version:
+format-version: 1.2
+data-version: releases/2017-09-12
+go.obo.names.including.obsoletes.txt
+   47047 go.obo.names.including.obsoletes.txt
+Without obsoletes:
+   44971 go.obo.names.txt
+Without brackets:
+   44830 go.obo.no.brackets.txt
+Without brackets or parentheses:
+   43360 go.obo.no.brackets.no.parentheses.txt
+Verify expected number of outputs:
+   43360
